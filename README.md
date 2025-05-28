@@ -1,5 +1,10 @@
 # Pawan_Gangwar_CSE-cyber-_DoS-Detection
 
+**##Project members**
+Pawan Gangwar(2301410024)
+Abhay Rana(2301410036)
+Prince Dagar(2301410006)
+
 This work is about exploring the different algorithms in order to facilitate the detection of Distributed Denial of Service (DDoS) attacks.
 
 ## Project Description
